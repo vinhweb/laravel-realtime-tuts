@@ -7,7 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Laravel 10 & Realtime
+
+Chú ý: Đây là bản Laravel 10, yêu cầu PHP 8.1 trở lên các bạn nhé.
+
 ## Hướng dẫn setup
+
 ### Install vendor, packages
 Sau khi clone code về. Các bạn chạy command:
 
